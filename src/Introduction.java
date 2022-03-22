@@ -47,7 +47,7 @@ public class Introduction {
         driver.quit();//Closes the driver's entire web session
 
 
-/** INtroduction **/
+/** Introduction **/
 
 
 
